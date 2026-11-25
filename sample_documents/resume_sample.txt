@@ -1,0 +1,9 @@
+RESUME
+Jordan Lee
+Data Analyst
+Email: jordan.lee@example.com
+
+Professional Summary: Data analyst with four years of experience building dashboards and reporting tools.
+Experience: Jordan Lee worked at Bluebird Analytics from 2022 to 2026, where the team improved monthly reporting accuracy by 18 percent.
+Education: Bachelor of Science in Statistics, Western University, 2022.
+Skills: Python, SQL, data visualization, communication, and machine learning.

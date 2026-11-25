@@ -1,0 +1,10 @@
+INVOICE
+Invoice Number: INV-2048
+Invoice Date: November 10, 2026
+Bill To: Northwind Research
+
+Acme Consulting Services provided document analysis support and data processing.
+Subtotal: $1,200.00
+Tax: $96.00
+Total Amount Due: $1,296.00
+Payment due within 30 days. Please contact Maya Patel at maya.patel@example.com with questions.
